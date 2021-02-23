@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -83,7 +83,7 @@ author:
   name             : "Janusz Meylahn"
   avatar           : "profile.png"
   bio              : "Postdoc at the Dutch Institute for Emergent Phenomena"
-  location         : "University of Amsterdam, The Netherlands"
+  location         : "University of Amsterdam"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=GJax08kAAAAJ&hl=en&oi=ao"
