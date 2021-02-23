@@ -27,14 +27,11 @@ Academic Positions
   * University of Amsterdam
   * Dutch Intitute of Emergent Phenomena
   
-Skills
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Synchronization on complex networks using the Kuramoto model
+* Collusion of pricing algorithms
+* Stochastic resetting
 
 Publications
 ======
