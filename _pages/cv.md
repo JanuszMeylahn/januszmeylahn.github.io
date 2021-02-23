@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Theoretical Physics, Stellenbosch University, 2012
+* Hons. Sc. in Theoretical Physics, Stellenbosch University, 2013
+* M.Sc. in Theoretical Physics, Stellenbosch University, 2015
+* Ph.D in Mathematics, Leiden University, 2019
 
-Work experience
+Academic Positions
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April 2019 - November 2020: Postdoctoral Researcher
+  * University of Amsterdam
+  * Amsterdam Business School
+  * Supervisor: Dr. Arnoud den Boer
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* December 2020 - present: Postdoctoral Researcher
+  * University of Amsterdam
+  * Dutch Intitute of Emergent Phenomena
   
 Skills
 ======
