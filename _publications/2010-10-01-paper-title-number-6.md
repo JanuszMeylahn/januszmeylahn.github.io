@@ -8,11 +8,11 @@ The Kuramoto model is a model for studying the synchronization of oscillators (e
 '
 date: 2021-03-03
 venue: 'Chaos: An Interdisciplinary Journal of Nonlinear Science'
-paperurl: 'https://aip.scitation.org/doi/full/10.1063/5.0022624'
+paperurl: 'https://doi.org/10.1063/5.0022624'
 citation: 'Achterhof, S., & Meylahn, J. M. (2021). &quot;Two-community noisy Kuramoto model with general interaction strengths. I&quot; <i>Chaos: An Interdisciplinary Journal of Nonlinear Science </i>. 31(3), 033115.'
 ---
 
-[Download paper here](https://aip.scitation.org/doi/full/10.1063/5.0022624)
+[Download paper here](https://doi.org/10.1063/5.0022624)
 
 Recommended citation: Achterhof, S., & Meylahn, J. M. (2021). Two-community noisy Kuramoto model with general interaction strengths. I. Chaos: An Interdisciplinary Journal of Nonlinear Science, 31(3), 033115.
 
