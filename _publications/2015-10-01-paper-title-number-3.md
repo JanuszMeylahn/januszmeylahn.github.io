@@ -6,7 +6,7 @@ excerpt: 'We study the distribution of additive functionals of reset Brownian mo
 date: 2019-02-14
 venue: 'Journal of Physics A: Mathematical and Theoretical'
 paperurl: 'https://iopscience.iop.org/article/10.1088/1751-8121/ab0efd/meta'
-citation: 'Den Hollander, F., Majumdar, S. N., Meylahn, J. M., & Touchette, H. (2019). &quot;Paper Properties of additive functionals of Brownian motion with resetting.&quot; <i>Journal of Physics A: Mathematical and Theoretical</i>. 52(17), 175001.'
+citation: 'Den Hollander, F., Majumdar, S. N., Meylahn, J. M., & Touchette, H. (2019). &quot;Properties of additive functionals of Brownian motion with resetting.&quot; <i>Journal of Physics A: Mathematical and Theoretical</i>. 52(17), 175001.'
 ---
 
 [Download paper here](https://iopscience.iop.org/article/10.1088/1751-8121/ab0efd/meta)
