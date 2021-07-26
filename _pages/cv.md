@@ -53,4 +53,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Regular reviewer for the Journal of Physics A and Journal of Physics: Complexity
+* Organizer of the Leiden Complex Networks Network (LCN2) from 2017-2019
+* Organizer of the Dutch Institute of Emergent Phenomena bi-monthly Seminar
+* Organizer of the Dutch Institute of Emergent Phenomena bi-monthly Journal Club
