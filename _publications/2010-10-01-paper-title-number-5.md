@@ -7,11 +7,11 @@ excerpt: 'Recent mathematical results for the noisy Kuramoto model on a 2-commun
 '
 date: 2020-01-23
 venue: 'Journal of Statistical Physics'
-paperurl: 'https://journals.sagepub.com/doi/full/10.1177/0748730419898314'
+paperurl: 'https://doi.org/10.1177/0748730419898314'
 citation: 'Rohling, J. H., & Meylahn, J. M. (2020). &quot;Two-community noisy Kuramoto model suggests mechanism for splitting in the suprachiasmatic nucleus.&quot; <i>Journal of biological rhythms </i>. 35(2), 158-166.'
 ---
 
-[Download paper here](https://journals.sagepub.com/doi/full/10.1177/0748730419898314)
+[Download paper here](https://doi.org/10.1177/0748730419898314)
 
 Recommended citation: Rohling, J. H., & Meylahn, J. M. (2020). Two-community noisy Kuramoto model suggests mechanism for splitting in the suprachiasmatic nucleus. Journal of biological rhythms, 35(2), 158-166.
 
