@@ -8,7 +8,7 @@ excerpt: 'Synchronization of neurons forming a network with a hierarchical struc
 date: 2019-01-15
 venue: 'Journal of Statistical Physics'
 paperurl: 'https://link.springer.com/article/10.1007/s10955-018-2208-5'
-citation: 'Garlaschelli, D., den Hollander, F., Meylahn, J. M., & Zeegers, B. (2019). &quot;Synchronization of phase oscillators on the hierarchical lattice.&quot; <i>Journal of Statistical Physics 1</i>. 174(1).'
+citation: 'Garlaschelli, D., den Hollander, F., Meylahn, J. M., & Zeegers, B. (2019). &quot;Synchronization of phase oscillators on the hierarchical lattice.&quot; <i>Journal of Statistical Physics </i>. 174(1), 188-218.'
 ---
 
 [Download paper here](https://link.springer.com/article/10.1007/s10955-018-2208-5)
