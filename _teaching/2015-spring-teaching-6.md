@@ -1,11 +1,11 @@
 ---
-title: "Emergence"
+title: "Synchronization on complex networks"
 collection: teaching
-type: "Honours course"
-permalink: /teaching/2015-spring-teaching-4
-venue: "University of Amsterdam, Faculty of Science"
-date: 2021-02-01
-location: "Amsterdam, The Netherlands"
+type: "NETWORKS Masterclass"
+permalink: /teaching/2015-spring-teaching-6
+venue: "NETWORKS goes to school"
+date: 2021-03-26
+location: "Online, The Netherlands"
 ---
 
-An honours course on emergence in which I taught the part on synchronization on complex networks (4 hours of lectures, 4 hours of tutorials assignemnts and a quiz).
+A masterclass organized by the NETWORKS symposium for high school students from all over the Netherlands to promote network science.
