@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research fellow at the Dutch Institute of Emergent Phenomena at the University of Amsterdam, Faculty of Science. My position is split between the informatics institute (IvI) and the mathematics institute (KdVI).
+I am currently an assistant professor at the Department of Applied Mathematics at the University of Twente. My position is in the Stochastic Operations Research (SOR) group headed by prof.dr. Richard Boucherie. 
 
 My research can be split into three main categories, with the underlying commonality that they all concern some emergent phenomena. The most recent line of research is on algorithmic collusion between price learning algorithms and multi-agent learning in general. This is work done in collaboration with Arnoud den Boer (University of Amsterdam).
 
