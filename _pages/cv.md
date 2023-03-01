@@ -23,14 +23,19 @@ Academic Positions
   * Amsterdam Business School
   * Supervisor: Dr. Arnoud den Boer
 
-* December 2020 - present: Postdoctoral Researcher
+* December 2020 - June 2022: Postdoctoral Researcher
   * University of Amsterdam
-  * Dutch Intitute of Emergent Phenomena
+  * Dutch Institute of Emergent Phenomena
+
+* July 2022 - present: Assistant Professor
+  * University of Twente
+  * Department of Applied Mathematics
   
 Research Interests
 ======
-* Synchronization on complex networks using the Kuramoto model
 * Collusion of pricing algorithms
+* Multiagent Reinforcement Learning
+* Synchronization on complex networks using the Kuramoto model
 * Stochastic resetting
 
 Publications
