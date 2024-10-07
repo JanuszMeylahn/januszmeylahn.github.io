@@ -59,8 +59,8 @@ Teaching
 Service and leadership
 ======
 * Reviewer for:
-..* Journal of Physics A
-..* Journal of Physics: Complexity
+    * Journal of Physics A
+    * Journal of Physics: Complexity
 * Organizer of the Leiden Complex Networks Network (LCN2) from 2017-2019
 * Organizer of the Dutch Institute of Emergent Phenomena bi-monthly Seminar
 * Organizer of the Dutch Institute of Emergent Phenomena bi-monthly Journal Club
