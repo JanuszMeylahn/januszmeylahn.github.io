@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+## Research Interests
+
 I am currently an assistant professor at the Department of Applied Mathematics at the University of Twente. My position is in the Stochastic Operations Research (SOR) group headed by prof.dr. Richard Boucherie. 
 
 My research can be split into three main categories, with the underlying commonality that they all concern some emergent phenomena. The most recent line of research is on algorithmic collusion between price learning algorithms and multi-agent learning in general. This is work done in collaboration with Arnoud den Boer (University of Amsterdam) and Wolfram Barfus (Tuebingen AI Center).
