@@ -18,7 +18,7 @@ Another line of research is on synchronization on complex networks. Here, I inve
 
 The final line of research is on the effect that the addition of stochastic resetting has on the large deviation probabilities of Markov processes. Stochastic resetting is a modification that can be added to Markov processes that restarts the process (from a fixed or random position) with some probability.
 
-## Team
+## Students
 I'm currently supervising the following people:
 
 PhD:
